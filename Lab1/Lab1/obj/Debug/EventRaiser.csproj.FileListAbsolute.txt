@@ -1,0 +1,6 @@
+D:\Anul III\Sem II\TSP.NET\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Anul III\Sem II\TSP.NET\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Anul III\Sem II\TSP.NET\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Anul III\Sem II\TSP.NET\Lab1\Lab1\obj\Debug\EventRaiser.csprojAssemblyReference.cache
+D:\Anul III\Sem II\TSP.NET\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Anul III\Sem II\TSP.NET\Lab1\Lab1\obj\Debug\Lab1.pdb

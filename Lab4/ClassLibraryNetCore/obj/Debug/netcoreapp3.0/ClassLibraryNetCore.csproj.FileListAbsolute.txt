@@ -1,0 +1,10 @@
+D:\Anul III\Sem II\TSP.NET\ClassLibraryNetCore\ClassLibraryNetCore\bin\Debug\netcoreapp3.0\ClassLibraryNetCore.deps.json
+D:\Anul III\Sem II\TSP.NET\ClassLibraryNetCore\ClassLibraryNetCore\bin\Debug\netcoreapp3.0\ClassLibraryNetCore.dll
+D:\Anul III\Sem II\TSP.NET\ClassLibraryNetCore\ClassLibraryNetCore\obj\Debug\netcoreapp3.0\ClassLibraryNetCore.csprojAssemblyReference.cache
+D:\Anul III\Sem II\TSP.NET\ClassLibraryNetCore\ClassLibraryNetCore\obj\Debug\netcoreapp3.0\ClassLibraryNetCore.AssemblyInfoInputs.cache
+D:\Anul III\Sem II\TSP.NET\ClassLibraryNetCore\ClassLibraryNetCore\obj\Debug\netcoreapp3.0\ClassLibraryNetCore.AssemblyInfo.cs
+D:\Anul III\Sem II\TSP.NET\ClassLibraryNetCore\ClassLibraryNetCore\bin\Debug\netcoreapp3.0\ClassLibraryNetCore.runtimeconfig.json
+D:\Anul III\Sem II\TSP.NET\ClassLibraryNetCore\ClassLibraryNetCore\bin\Debug\netcoreapp3.0\ClassLibraryNetCore.runtimeconfig.dev.json
+D:\Anul III\Sem II\TSP.NET\ClassLibraryNetCore\ClassLibraryNetCore\bin\Debug\netcoreapp3.0\ClassLibraryNetCore.pdb
+D:\Anul III\Sem II\TSP.NET\ClassLibraryNetCore\ClassLibraryNetCore\obj\Debug\netcoreapp3.0\ClassLibraryNetCore.dll
+D:\Anul III\Sem II\TSP.NET\ClassLibraryNetCore\ClassLibraryNetCore\obj\Debug\netcoreapp3.0\ClassLibraryNetCore.pdb

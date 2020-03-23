@@ -1,0 +1,5 @@
+D:\Anul III\Sem II\TSP.NET\Lab1\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+D:\Anul III\Sem II\TSP.NET\Lab1\PrimeNumber\bin\Debug\PrimeNumber.exe
+D:\Anul III\Sem II\TSP.NET\Lab1\PrimeNumber\bin\Debug\PrimeNumber.pdb
+D:\Anul III\Sem II\TSP.NET\Lab1\PrimeNumber\obj\Debug\PrimeNumber.exe
+D:\Anul III\Sem II\TSP.NET\Lab1\PrimeNumber\obj\Debug\PrimeNumber.pdb

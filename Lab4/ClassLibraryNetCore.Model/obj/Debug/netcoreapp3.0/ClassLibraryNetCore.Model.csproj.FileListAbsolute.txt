@@ -1,0 +1,10 @@
+D:\Anul III\Sem II\TSP.NET\ClassLibraryNetCore\ClassLibraryNetCore.Model\bin\Debug\netcoreapp3.0\ClassLibraryNetCore.Model.deps.json
+D:\Anul III\Sem II\TSP.NET\ClassLibraryNetCore\ClassLibraryNetCore.Model\bin\Debug\netcoreapp3.0\ClassLibraryNetCore.Model.dll
+D:\Anul III\Sem II\TSP.NET\ClassLibraryNetCore\ClassLibraryNetCore.Model\obj\Debug\netcoreapp3.0\ClassLibraryNetCore.Model.csprojAssemblyReference.cache
+D:\Anul III\Sem II\TSP.NET\ClassLibraryNetCore\ClassLibraryNetCore.Model\obj\Debug\netcoreapp3.0\ClassLibraryNetCore.Model.AssemblyInfoInputs.cache
+D:\Anul III\Sem II\TSP.NET\ClassLibraryNetCore\ClassLibraryNetCore.Model\obj\Debug\netcoreapp3.0\ClassLibraryNetCore.Model.AssemblyInfo.cs
+D:\Anul III\Sem II\TSP.NET\ClassLibraryNetCore\ClassLibraryNetCore.Model\bin\Debug\netcoreapp3.0\ClassLibraryNetCore.Model.runtimeconfig.json
+D:\Anul III\Sem II\TSP.NET\ClassLibraryNetCore\ClassLibraryNetCore.Model\bin\Debug\netcoreapp3.0\ClassLibraryNetCore.Model.runtimeconfig.dev.json
+D:\Anul III\Sem II\TSP.NET\ClassLibraryNetCore\ClassLibraryNetCore.Model\bin\Debug\netcoreapp3.0\ClassLibraryNetCore.Model.pdb
+D:\Anul III\Sem II\TSP.NET\ClassLibraryNetCore\ClassLibraryNetCore.Model\obj\Debug\netcoreapp3.0\ClassLibraryNetCore.Model.dll
+D:\Anul III\Sem II\TSP.NET\ClassLibraryNetCore\ClassLibraryNetCore.Model\obj\Debug\netcoreapp3.0\ClassLibraryNetCore.Model.pdb
