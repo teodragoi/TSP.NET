@@ -1,0 +1,17 @@
+C:\nonwork\TSP\TSP.NET\Lab8\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.exe
+C:\nonwork\TSP\TSP.NET\Lab8\GrpcGreeterClient\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.csprojAssemblyReference.cache
+C:\nonwork\TSP\TSP.NET\Lab8\GrpcGreeterClient\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.AssemblyInfoInputs.cache
+C:\nonwork\TSP\TSP.NET\Lab8\GrpcGreeterClient\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.AssemblyInfo.cs
+C:\nonwork\TSP\TSP.NET\Lab8\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\nonwork\TSP\TSP.NET\Lab8\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\nonwork\TSP\TSP.NET\Lab8\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\nonwork\TSP\TSP.NET\Lab8\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\nonwork\TSP\TSP.NET\Lab8\GrpcGreeterClient\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.csproj.CopyComplete
+C:\nonwork\TSP\TSP.NET\Lab8\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\nonwork\TSP\TSP.NET\Lab8\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.deps.json
+C:\nonwork\TSP\TSP.NET\Lab8\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.runtimeconfig.json
+C:\nonwork\TSP\TSP.NET\Lab8\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.runtimeconfig.dev.json
+C:\nonwork\TSP\TSP.NET\Lab8\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.dll
+C:\nonwork\TSP\TSP.NET\Lab8\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.pdb
+C:\nonwork\TSP\TSP.NET\Lab8\GrpcGreeterClient\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.dll
+C:\nonwork\TSP\TSP.NET\Lab8\GrpcGreeterClient\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.pdb
