@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="DbContext" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="DbContextContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Photos" EntityType="DbContext.Photo" />
+    <EntitySet Name="People" EntityType="DbContext.Person" />
+    <AssociationSet Name="PersonPhoto" Association="DbContext.PersonPhoto">
+      <End Role="Person" EntitySet="People" />
+      <End Role="Photo" EntitySet="Photos" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Photo">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Location" Type="String" Nullable="false" />
+    <Property Name="Event" Type="String" Nullable="false" />
+    <Property Name="PhotoUrl" Type="String" Nullable="false" />
+    <Property Name="Date" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Person">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" Nullable="false" />
+    <Property Name="LastName" Type="String" Nullable="false" />
+  </EntityType>
+  <Association Name="PersonPhoto">
+    <End Type="DbContext.Person" Role="Person" Multiplicity="*" />
+    <End Type="DbContext.Photo" Role="Photo" Multiplicity="*" />
+  </Association>
+</Schema>

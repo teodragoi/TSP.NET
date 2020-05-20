@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DbContext.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="DbContextStoreContainer">
+    <EntitySet Name="Photos" EntityType="DbContext.Store.Photos" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="People" EntityType="DbContext.Store.People" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PersonPhoto" EntityType="DbContext.Store.PersonPhoto" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_PersonPhoto_Person" Association="DbContext.Store.FK_PersonPhoto_Person">
+      <End Role="Person" EntitySet="People" />
+      <End Role="PersonPhoto" EntitySet="PersonPhoto" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PersonPhoto_Photo" Association="DbContext.Store.FK_PersonPhoto_Photo">
+      <End Role="Photo" EntitySet="Photos" />
+      <End Role="PersonPhoto" EntitySet="PersonPhoto" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Photos">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Location" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Event" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="PhotoUrl" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Date" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="People">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PersonPhoto">
+    <Key>
+      <PropertyRef Name="PersonPhoto_Photo_Id" />
+      <PropertyRef Name="PersonPhoto_Person_Id" />
+    </Key>
+    <Property Name="PersonPhoto_Photo_Id" Type="int" Nullable="false" />
+    <Property Name="PersonPhoto_Person_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_PersonPhoto_Person">
+    <End Role="Person" Type="DbContext.Store.People" Multiplicity="1" />
+    <End Role="PersonPhoto" Type="DbContext.Store.PersonPhoto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Person">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PersonPhoto">
+        <PropertyRef Name="PersonPhoto_Photo_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PersonPhoto_Photo">
+    <End Role="PersonPhoto" Type="DbContext.Store.PersonPhoto" Multiplicity="*" />
+    <End Role="Photo" Type="DbContext.Store.Photos" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Photo">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PersonPhoto">
+        <PropertyRef Name="PersonPhoto_Person_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

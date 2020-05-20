@@ -1,0 +1,16 @@
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFService\bin\Debug\WCFService.dll
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFService\bin\Debug\WCFService.pdb
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFService\bin\Debug\System.ServiceModel.Primitives.dll
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFService\bin\Debug\WCFPhotos.dll
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFService\bin\Debug\WCFRepository.dll
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFService\bin\Debug\EntityFramework.dll
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFService\bin\Debug\WCFPhotos.pdb
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFService\bin\Debug\WCFPhotos.dll.config
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFService\bin\Debug\WCFRepository.pdb
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFService\bin\Debug\WCFRepository.dll.config
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFService\bin\Debug\System.ServiceModel.Primitives.pdb
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFService\bin\Debug\EntityFramework.xml
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFService\obj\Debug\WCFService.csprojAssemblyReference.cache
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFService\obj\Debug\WCFService.csproj.CopyComplete
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFService\obj\Debug\WCFService.dll
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFService\obj\Debug\WCFService.pdb

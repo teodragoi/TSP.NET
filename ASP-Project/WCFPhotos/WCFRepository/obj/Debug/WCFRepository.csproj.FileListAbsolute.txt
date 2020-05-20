@@ -1,0 +1,14 @@
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFRepository\bin\Debug\WCFRepository.dll.config
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFRepository\bin\Debug\WCFRepository.dll
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFRepository\bin\Debug\WCFRepository.pdb
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFRepository\bin\Debug\EntityFramework.dll
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFRepository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFRepository\bin\Debug\WCFPhotos.dll
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFRepository\bin\Debug\WCFPhotos.pdb
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFRepository\bin\Debug\WCFPhotos.dll.config
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFRepository\bin\Debug\EntityFramework.xml
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFRepository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFRepository\obj\Debug\WCFRepository.csprojAssemblyReference.cache
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFRepository\obj\Debug\WCFRepository.csproj.CopyComplete
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFRepository\obj\Debug\WCFRepository.dll
+D:\Anul III\Sem II\TSP.NET\WCF-Project\WCFPhotos\WCFRepository\obj\Debug\WCFRepository.pdb
