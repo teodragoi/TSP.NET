@@ -1,0 +1,48 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].Location)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].Event)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].Date)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var photo in Model.Photos)
+        {
+            <tr style="font-size:small">
+                <td>
+                    @Html.DisplayFor(modelItem => photo.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => photo.Location)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => photo.Event)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => photo.Date)
+                </td>
+                <td>
+                    <a asp-page="/Photos/Edit" asp-route-id="@photo.Id">Edit</a> |
+                    <a asp-page="/Photos/Details" asp-route-id="@photo.Id">Details</a> |
+                    <a asp-page="/Photos/Delete" asp-route-id="@photo.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
